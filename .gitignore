@@ -1,0 +1,17 @@
+out/
+bin/
+gen/
+.DS_Store
+*.iws
+*.ipr
+*.iml
+*.swp
+local.properties
+*.metadata
+.git/
+.settings
+.project
+.classpath
+target/
+tmp/
+.idea
